@@ -10,7 +10,7 @@ export const Bio = {
       "I am a Full stack web developer And a Data Scientist with a passion of creating responsive web application And making the Ml models as well. I have experience working with Javascript , React , Nodejs , MongoDB , Sql , Machine Learning Algos , ANN , CNN , Computer Vision , PowerBi etc",
     github: "https://github.com/ayushkaushal1522",
     resume:
-      "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+      "https://drive.google.com/file/d/18C3-xLl_gFBkVowYip1OT9AbanBL_d0E/view",
     linkedin: "https://www.linkedin.com/in/ayush-kaushal-948624245/",
     twitter: "https://twitter.com/IamAkaushal",
     insta: "https://www.instagram.com/hackhero_ayush/?next=%2F&hl=en",
